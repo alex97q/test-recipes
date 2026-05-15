@@ -1,0 +1,28 @@
+body {
+    background-color: #8daa91;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    width: 200px;
+    margin: 10px auto;
+    background-color: #788475;
+    color: #28112b;
+}
+.RecipeList {
+    font-family: 'Arial', sans-serif;
+    background-color: #788475;
+    color: #28112b;
+    width: 200px;
+    padding: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 300px;
+
+}
